@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="190" viewBox="0 0 960 190" role="img" aria-labelledby="title desc">
+<title id="title">Ian González — Desarrollo web y electrónica</title>
+<desc id="desc">Portada azul oscuro con acentos turquesa y trazos de circuitos.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101e35"/><stop offset="1" stop-color="#07111f"/></linearGradient><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#8ea4bf" opacity=".12"/></pattern></defs>
+<rect width="960" height="190" rx="16" fill="url(#bg)"/><rect width="960" height="190" rx="16" fill="url(#grid)"/>
+<rect x="36" y="38" width="4" height="113" rx="2" fill="#5eead4"/>
+<text x="58" y="55" fill="#5eead4" font-family="Arial, sans-serif" font-size="13" letter-spacing="3">IANGL7 / SOFTWARE + HARDWARE</text>
+<text x="56" y="108" fill="#f4f7fb" font-family="Arial, sans-serif" font-weight="700" font-size="43">Ian González</text>
+<text x="58" y="143" fill="#bdcbdc" font-family="Arial, sans-serif" font-size="19">Desarrollo web · Proyectos de electrónica</text>
+<g fill="none" stroke="#5eead4" stroke-width="2" opacity=".55"><path d="M690 40h48l24 24h54l27-27h57"/><path d="M670 95h83l24 24h101"/><path d="M725 155h60l24-24h35"/><path d="M816 64v30l29 29v32h55"/></g>
+<g fill="#0d192b" stroke="#5eead4" stroke-width="2"><circle cx="690" cy="40" r="4"/><circle cx="900" cy="37" r="4"/><circle cx="670" cy="95" r="4"/><circle cx="878" cy="119" r="4"/><circle cx="725" cy="155" r="4"/><circle cx="900" cy="155" r="4"/></g>
+</svg>
